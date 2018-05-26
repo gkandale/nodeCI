@@ -23,3 +23,6 @@ deploy:
   api_key:
     secure: uVvopu7QfAn2/7IGWK42x+0ZTzc6+WxvjQ8pQHpSx+e0M4a1TD14p5Fn+KeGxgdfMe+smHHnClSbf2Rx3iz82C6fw9gPwH5R5q2BU6Iy7Z+lbDCsfJMf836V+i2zz+oOU0wwtggEi32usjSAE7Xqe+g7L+Ww042yDMMBUNGaAAdWsekR9ZoDHDUG6PM1ldtbsxvP20TNrGSjB4J3h0ydpSLNiI7vlCmOtYtjRy5gRZZJ3HbiEE6ZwZa6dLtGc3c/CxdEYx2u+Kpix/GJuBYQewmDnd4EyihnaIfeMbWQUBolWopYUJ34ywoPaUoV2aNQXXmNcvDg3uP052uu2QcFbIULbsAA8x5vvkUh4kWqrR0jf2nARfqilRxhG8Tqi/TwbV+UIUkU4xwJW8gTZWxd0XlvkG8WKWk3hXPLxWsr9Np4EY7oyjXQWG8cMb3R+QuVUTL7Jcl7vcaIdKTv6mCjHVwTH+EOLAHUBaGKN8mkKOTW1sIEU3aXvYiszxq+AzJcz3RSINF1znpxQ97yn4VlRvFjARxnpq5RgqkvLXRiFifbaTyRWm4d/yDY3cbOHqtJXvHxVqTruM8mprjAm1SDrlXnbPkUxsmlHxLYlIqlL4u0uXNDFLdDYf5vCB8vpT/S0mz/X7aNl93+gvu2QE78nzYN1uzgBLo5sL9SeYnaKnM=
   app: node-blog-ci
+  run:
+    - "git add ."
+    - "git commit -a 'Committing more files'"
