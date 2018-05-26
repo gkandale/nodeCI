@@ -24,5 +24,4 @@ deploy:
     secure: Xjr4vN9zug0L72hVjDIbyOJP9wrSShokNMzlYnDAU0rgjhapRZvgVqLCXv/I6Nzc9Vw+j+SfXxrgY07aTt4KzeTjwDVbTBE0qQ0eAVSeEC9cvMjjPkOhN8dStkkrmChoOsOVlcvyz6vJ0cSEdbcJYF5sVkNrqdrfPTkH3Tbt8fDFc40lRqnuaS2TL7kQ1SzpuVb2uhEhHZZdds1lik48NVevjfZTEzMxt9jGipcnWxZWARKYWfwcOBz8XALgqVzbYPp4tFQWnRrut5vcKFXSkG3eQitd51YBOQEOjSS16mitSLaWzLcqzSWFl7v2LRpHiAnpWFl0iK2EMoGbEXxvC47M1d3YNgwCBXKAN69ETnw7+w0NACDy+/s5xLF6YTyTNkG5MygO+KUIhyok3jT94/nIGUnz/BvOM3/BItkUAxFc1kZjbB6BuwVfwJx/rBSc+WShWQw6irzy/zCRMWeXXhcOXJU87QRACa9am9UpD30VlYhzx1u1X3FITBXlioBf8X6Qwbl2PQq1EjqaX/Txyt1Y1x6hYZrIY79LRriy0+/6niw/Jm6m/yYuzdZupviQVXDZItVG2gDPirqDZRvaYLJHCDWROl+oI0foOsBCFVIljqZNQcHBGf8R4TUpApKdtmoFE1EF483LPAqmIcWF6Z4FBSAOQsattM8/xe1smb8=
   app: node-blog-ci
   run:
-  - git add .
-  - git commit -m 'Committing more files'
+  - restart
