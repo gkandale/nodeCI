@@ -1,7 +1,8 @@
+//config
 module.exports = {
   googleClientID:
-    '964808011168-29vqsooppd769hk90kjbjm5gld0glssb.apps.googleusercontent.com',
-  googleClientSecret: 'KnH-rZC23z4fr2CN4ISK4srN',
+    '665896090171-m1gj65ebnth73ur5vjt5jrhdfvg91bje.apps.googleusercontent.com',
+  googleClientSecret: 'fndHbBB4KXqbgQYggkq7wngx',
   mongoURI: 'mongodb://gkandale:Fungu50!@ds133776.mlab.com:33776/blog_dev',
   cookieKey: '123123123',
   jestTimeout: 30000,
