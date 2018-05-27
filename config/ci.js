@@ -1,7 +1,7 @@
 module.exports = {
     googleClientID:
-        '252209568841-sj0cbk5famql7um8jq51sik4j1bk4md1.apps.googleusercontent.com',
-    googleClientSecret: 'bH-Eg4___yVncdT6u2bk-LWY',
+        '564157375868-o5tk2cjg2re28f568g8fnqtu95p00d88.apps.googleusercontent.com',
+    googleClientSecret: 'RGscZcsqiBRcEqqRa4D48M0F',
     mongoURI: 'mongodb://127.0.0.1:27017/blog_ci',
     cookieKey: '123123123',
     jestTimeout: 30000,
